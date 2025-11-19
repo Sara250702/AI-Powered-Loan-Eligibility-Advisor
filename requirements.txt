@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+joblib
+google-generativeai
+protobuf==4.25.3
